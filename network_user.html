@@ -1,0 +1,1344 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="https://platform.twitter.com/widgets.js"></script>
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<style>
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.8;
+  stroke-width: 2px;
+}
+
+line.reply {
+  stroke: #999;
+}
+
+line.retweet {
+  stroke-dasharray: 5;
+}
+
+line.quote {
+  stroke-dasharray: 5;
+}
+
+.nodes circle {
+  stroke: red;
+  fill: red;
+  stroke-width: 1.5px;
+}
+
+circle.retweet {
+  fill: white;
+  stroke: #999;
+}
+
+circle.reply {
+  fill: #999;
+  stroke: #999;
+}
+
+circle.quote {
+  fill: yellow;
+  stroke: yellow;
+}
+
+#graph {
+  width: 99vw;
+  height: 99vh;
+}
+
+#tweet {
+  position: absolute;
+  left: 100px;
+  top: 150px;
+}
+
+</style>
+<svg id="graph"></svg>
+<div id="tweet"></div>
+<script>
+
+var width = $(window).width();
+var height = $(window).height();
+
+var svg = d3.select("svg")
+    .attr("height", height)
+    .attr("width", width);
+
+var color = d3.scaleOrdinal(d3.schemeCategory20c);
+
+var simulation = d3.forceSimulation()
+    .velocityDecay(0.6)
+    .force("link", d3.forceLink().id(function(d) { return d.id; }))
+    .force("charge", d3.forceManyBody())
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+var graph = {
+  "nodes": [
+    {
+      "id": "DjMorenoNJ",
+      "type": null,
+      "screen_name": "DjMorenoNJ"
+    },
+    {
+      "id": "espn",
+      "type": null,
+      "screen_name": "espn"
+    },
+    {
+      "id": "landryyy14",
+      "type": null,
+      "screen_name": "landryyy14"
+    },
+    {
+      "id": "danielsshitchip",
+      "type": null,
+      "screen_name": "danielsshitchip"
+    },
+    {
+      "id": "fg083",
+      "type": null,
+      "screen_name": "fg083"
+    },
+    {
+      "id": "ctsmith25",
+      "type": null,
+      "screen_name": "ctsmith25"
+    },
+    {
+      "id": "cbsmith3",
+      "type": null,
+      "screen_name": "cbsmith3"
+    },
+    {
+      "id": "CoachZachSmith",
+      "type": null,
+      "screen_name": "CoachZachSmith"
+    },
+    {
+      "id": "kileysmiff",
+      "type": null,
+      "screen_name": "kileysmiff"
+    },
+    {
+      "id": "cowboyNash19",
+      "type": null,
+      "screen_name": "cowboyNash19"
+    },
+    {
+      "id": "alyssababiee",
+      "type": null,
+      "screen_name": "alyssababiee"
+    },
+    {
+      "id": "groughface",
+      "type": null,
+      "screen_name": "groughface"
+    },
+    {
+      "id": "Indians",
+      "type": null,
+      "screen_name": "Indians"
+    },
+    {
+      "id": "Redskins",
+      "type": null,
+      "screen_name": "Redskins"
+    },
+    {
+      "id": "ROYsoWavy",
+      "type": null,
+      "screen_name": "ROYsoWavy"
+    },
+    {
+      "id": "oeste",
+      "type": null,
+      "screen_name": "oeste"
+    },
+    {
+      "id": "lgbtqfc",
+      "type": null,
+      "screen_name": "lgbtqfc"
+    },
+    {
+      "id": "buckmtim",
+      "type": null,
+      "screen_name": "buckmtim"
+    },
+    {
+      "id": "stevebullard",
+      "type": null,
+      "screen_name": "stevebullard"
+    },
+    {
+      "id": "_janizzle__",
+      "type": null,
+      "screen_name": "_janizzle__"
+    },
+    {
+      "id": "King_Hoseok_",
+      "type": null,
+      "screen_name": "King_Hoseok_"
+    },
+    {
+      "id": "SpencerTogia",
+      "type": null,
+      "screen_name": "SpencerTogia"
+    },
+    {
+      "id": "ThedumbT",
+      "type": null,
+      "screen_name": "ThedumbT"
+    },
+    {
+      "id": "TheBigLEEguer",
+      "type": null,
+      "screen_name": "TheBigLEEguer"
+    },
+    {
+      "id": "2Tanks_DRE",
+      "type": null,
+      "screen_name": "2Tanks_DRE"
+    },
+    {
+      "id": "BeulahKoale",
+      "type": null,
+      "screen_name": "BeulahKoale"
+    },
+    {
+      "id": "tropithedonpapi",
+      "type": null,
+      "screen_name": "tropithedonpapi"
+    },
+    {
+      "id": "409Dj",
+      "type": null,
+      "screen_name": "409Dj"
+    },
+    {
+      "id": "Tonyy_Stark",
+      "type": null,
+      "screen_name": "Tonyy_Stark"
+    },
+    {
+      "id": "aniahlynn1",
+      "type": null,
+      "screen_name": "aniahlynn1"
+    },
+    {
+      "id": "hafa_gabe",
+      "type": null,
+      "screen_name": "hafa_gabe"
+    },
+    {
+      "id": "BangtanLena",
+      "type": null,
+      "screen_name": "BangtanLena"
+    },
+    {
+      "id": "YeahhhLex_",
+      "type": null,
+      "screen_name": "YeahhhLex_"
+    },
+    {
+      "id": "lil_deharde",
+      "type": null,
+      "screen_name": "lil_deharde"
+    },
+    {
+      "id": "timtoez09",
+      "type": null,
+      "screen_name": "timtoez09"
+    },
+    {
+      "id": "spideyboii_",
+      "type": null,
+      "screen_name": "spideyboii_"
+    },
+    {
+      "id": "Ingridium",
+      "type": null,
+      "screen_name": "Ingridium"
+    },
+    {
+      "id": "petite1908",
+      "type": null,
+      "screen_name": "petite1908"
+    },
+    {
+      "id": "DJSuchandSuch",
+      "type": null,
+      "screen_name": "DJSuchandSuch"
+    },
+    {
+      "id": "HumbleTeej",
+      "type": null,
+      "screen_name": "HumbleTeej"
+    },
+    {
+      "id": "edubblove",
+      "type": null,
+      "screen_name": "edubblove"
+    },
+    {
+      "id": "gimmesamoa",
+      "type": null,
+      "screen_name": "gimmesamoa"
+    },
+    {
+      "id": "AnthonyF712",
+      "type": null,
+      "screen_name": "AnthonyF712"
+    },
+    {
+      "id": "NolaSignGuy",
+      "type": null,
+      "screen_name": "NolaSignGuy"
+    },
+    {
+      "id": "Devon127Owen",
+      "type": null,
+      "screen_name": "Devon127Owen"
+    },
+    {
+      "id": "RayRayRVA",
+      "type": null,
+      "screen_name": "RayRayRVA"
+    },
+    {
+      "id": "YoungRecklesTek",
+      "type": null,
+      "screen_name": "YoungRecklesTek"
+    },
+    {
+      "id": "Optimus_Val",
+      "type": null,
+      "screen_name": "Optimus_Val"
+    },
+    {
+      "id": "joeloutsch1",
+      "type": null,
+      "screen_name": "joeloutsch1"
+    },
+    {
+      "id": "LBeaglesgirlsbb",
+      "type": null,
+      "screen_name": "LBeaglesgirlsbb"
+    },
+    {
+      "id": "9DanielEnriquez",
+      "type": null,
+      "screen_name": "9DanielEnriquez"
+    },
+    {
+      "id": "anakin_otero",
+      "type": null,
+      "screen_name": "anakin_otero"
+    },
+    {
+      "id": "Sanslow",
+      "type": null,
+      "screen_name": "Sanslow"
+    },
+    {
+      "id": "_marcusmariota",
+      "type": null,
+      "screen_name": "_marcusmariota"
+    },
+    {
+      "id": "Titans",
+      "type": null,
+      "screen_name": "Titans"
+    },
+    {
+      "id": "MsVMarketing",
+      "type": null,
+      "screen_name": "MsVMarketing"
+    },
+    {
+      "id": "CoachRenae",
+      "type": null,
+      "screen_name": "CoachRenae"
+    },
+    {
+      "id": "City_AWAYDCFC",
+      "type": null,
+      "screen_name": "City_AWAYDCFC"
+    },
+    {
+      "id": "TheAnarcyclist",
+      "type": null,
+      "screen_name": "TheAnarcyclist"
+    },
+    {
+      "id": "nate2424shultz",
+      "type": null,
+      "screen_name": "nate2424shultz"
+    },
+    {
+      "id": "rpittma301",
+      "type": null,
+      "screen_name": "rpittma301"
+    },
+    {
+      "id": "MillerHHunter",
+      "type": null,
+      "screen_name": "MillerHHunter"
+    },
+    {
+      "id": "Mitch_Harper",
+      "type": null,
+      "screen_name": "Mitch_Harper"
+    },
+    {
+      "id": "CriddleBenjamin",
+      "type": null,
+      "screen_name": "CriddleBenjamin"
+    },
+    {
+      "id": "BiggDyll21",
+      "type": null,
+      "screen_name": "BiggDyll21"
+    },
+    {
+      "id": "Galvatran",
+      "type": null,
+      "screen_name": "Galvatran"
+    },
+    {
+      "id": "BPearlmanFSL",
+      "type": null,
+      "screen_name": "BPearlmanFSL"
+    },
+    {
+      "id": "KLaNasa23",
+      "type": null,
+      "screen_name": "KLaNasa23"
+    },
+    {
+      "id": "JP_Flash25",
+      "type": null,
+      "screen_name": "JP_Flash25"
+    },
+    {
+      "id": "iman_whaley4",
+      "type": null,
+      "screen_name": "iman_whaley4"
+    },
+    {
+      "id": "Andrade1323",
+      "type": null,
+      "screen_name": "Andrade1323"
+    },
+    {
+      "id": "Bert_MU",
+      "type": null,
+      "screen_name": "Bert_MU"
+    },
+    {
+      "id": "CGlaze81",
+      "type": null,
+      "screen_name": "CGlaze81"
+    },
+    {
+      "id": "Tyler_Lennon",
+      "type": null,
+      "screen_name": "Tyler_Lennon"
+    },
+    {
+      "id": "Mom2JackJill",
+      "type": null,
+      "screen_name": "Mom2JackJill"
+    },
+    {
+      "id": "breidenfehoko4",
+      "type": null,
+      "screen_name": "breidenfehoko4"
+    },
+    {
+      "id": "just_eddiejr",
+      "type": null,
+      "screen_name": "just_eddiejr"
+    },
+    {
+      "id": "tj_lsudad",
+      "type": null,
+      "screen_name": "tj_lsudad"
+    },
+    {
+      "id": "YaBoyVickk",
+      "type": null,
+      "screen_name": "YaBoyVickk"
+    },
+    {
+      "id": "LT2703",
+      "type": null,
+      "screen_name": "LT2703"
+    },
+    {
+      "id": "CoachSwansonBH",
+      "type": null,
+      "screen_name": "CoachSwansonBH"
+    },
+    {
+      "id": "areid45",
+      "type": null,
+      "screen_name": "areid45"
+    },
+    {
+      "id": "LSU_Sport",
+      "type": null,
+      "screen_name": "LSU_Sport"
+    },
+    {
+      "id": "LoughboroughSU",
+      "type": null,
+      "screen_name": "LoughboroughSU"
+    },
+    {
+      "id": "N_Smith31",
+      "type": null,
+      "screen_name": "N_Smith31"
+    },
+    {
+      "id": "johnnysnapback",
+      "type": null,
+      "screen_name": "johnnysnapback"
+    },
+    {
+      "id": "ju_HEARRDD_meh",
+      "type": null,
+      "screen_name": "ju_HEARRDD_meh"
+    },
+    {
+      "id": "JohnCR03",
+      "type": null,
+      "screen_name": "JohnCR03"
+    },
+    {
+      "id": "theregularfan1",
+      "type": null,
+      "screen_name": "theregularfan1"
+    },
+    {
+      "id": "grind_stat3",
+      "type": null,
+      "screen_name": "grind_stat3"
+    },
+    {
+      "id": "purcell52",
+      "type": null,
+      "screen_name": "purcell52"
+    },
+    {
+      "id": "PaulMurph13",
+      "type": null,
+      "screen_name": "PaulMurph13"
+    },
+    {
+      "id": "ColbyGuges",
+      "type": null,
+      "screen_name": "ColbyGuges"
+    },
+    {
+      "id": "GugelmeyerLogan",
+      "type": null,
+      "screen_name": "GugelmeyerLogan"
+    },
+    {
+      "id": "monroah",
+      "type": null,
+      "screen_name": "monroah"
+    },
+    {
+      "id": "ellenjanem01",
+      "type": null,
+      "screen_name": "ellenjanem01"
+    },
+    {
+      "id": "fairestofthemal",
+      "type": null,
+      "screen_name": "fairestofthemal"
+    },
+    {
+      "id": "unstabile01",
+      "type": null,
+      "screen_name": "unstabile01"
+    },
+    {
+      "id": "joebrisson12",
+      "type": null,
+      "screen_name": "joebrisson12"
+    },
+    {
+      "id": "AU_oleary",
+      "type": null,
+      "screen_name": "AU_oleary"
+    },
+    {
+      "id": "mohnjayhall",
+      "type": null,
+      "screen_name": "mohnjayhall"
+    },
+    {
+      "id": "big_head09",
+      "type": null,
+      "screen_name": "big_head09"
+    },
+    {
+      "id": "koanui_alameda3",
+      "type": null,
+      "screen_name": "koanui_alameda3"
+    },
+    {
+      "id": "CozbyKylie",
+      "type": null,
+      "screen_name": "CozbyKylie"
+    },
+    {
+      "id": "kodyhall_",
+      "type": null,
+      "screen_name": "kodyhall_"
+    },
+    {
+      "id": "AJ_ThompsonJr",
+      "type": null,
+      "screen_name": "AJ_ThompsonJr"
+    },
+    {
+      "id": "Tuaamann",
+      "type": null,
+      "screen_name": "Tuaamann"
+    },
+    {
+      "id": "Spellman2796",
+      "type": null,
+      "screen_name": "Spellman2796"
+    },
+    {
+      "id": "jacob_spellman",
+      "type": null,
+      "screen_name": "jacob_spellman"
+    },
+    {
+      "id": "YTCcaraballo",
+      "type": null,
+      "screen_name": "YTCcaraballo"
+    },
+    {
+      "id": "schnekser",
+      "type": null,
+      "screen_name": "schnekser"
+    },
+    {
+      "id": "PREAUX_FISH",
+      "type": null,
+      "screen_name": "PREAUX_FISH"
+    },
+    {
+      "id": "PilgrimBruce",
+      "type": null,
+      "screen_name": "PilgrimBruce"
+    },
+    {
+      "id": "LockItInonFS1",
+      "type": null,
+      "screen_name": "LockItInonFS1"
+    },
+    {
+      "id": "rachelbonnetta",
+      "type": null,
+      "screen_name": "rachelbonnetta"
+    },
+    {
+      "id": "CGH_Grant",
+      "type": null,
+      "screen_name": "CGH_Grant"
+    },
+    {
+      "id": "SamSchneider43",
+      "type": null,
+      "screen_name": "SamSchneider43"
+    },
+    {
+      "id": "TBow42",
+      "type": null,
+      "screen_name": "TBow42"
+    },
+    {
+      "id": "JakeDominick2",
+      "type": null,
+      "screen_name": "JakeDominick2"
+    },
+    {
+      "id": "LSUfootball",
+      "type": null,
+      "screen_name": "LSUfootball"
+    },
+    {
+      "id": "jeskindly414",
+      "type": null,
+      "screen_name": "jeskindly414"
+    },
+    {
+      "id": "TheLBaby7",
+      "type": null,
+      "screen_name": "TheLBaby7"
+    },
+    {
+      "id": "juwan21_",
+      "type": null,
+      "screen_name": "juwan21_"
+    },
+    {
+      "id": "Ortizc_14",
+      "type": null,
+      "screen_name": "Ortizc_14"
+    },
+    {
+      "id": "JetplaneJAY",
+      "type": null,
+      "screen_name": "JetplaneJAY"
+    },
+    {
+      "id": "HollAtYaBoyJosh",
+      "type": null,
+      "screen_name": "HollAtYaBoyJosh"
+    },
+    {
+      "id": "BHHSCoachBeard",
+      "type": null,
+      "screen_name": "BHHSCoachBeard"
+    },
+    {
+      "id": "Parapon_Peter",
+      "type": null,
+      "screen_name": "Parapon_Peter"
+    },
+    {
+      "id": "Its_all_Goody41",
+      "type": null,
+      "screen_name": "Its_all_Goody41"
+    },
+    {
+      "id": "ford_frog",
+      "type": null,
+      "screen_name": "ford_frog"
+    },
+    {
+      "id": "DivaMomDJ",
+      "type": null,
+      "screen_name": "DivaMomDJ"
+    },
+    {
+      "id": "Rogue2Riches",
+      "type": null,
+      "screen_name": "Rogue2Riches"
+    },
+    {
+      "id": "VanHorn_GFHS",
+      "type": null,
+      "screen_name": "VanHorn_GFHS"
+    },
+    {
+      "id": "RealLife_J_LO",
+      "type": null,
+      "screen_name": "RealLife_J_LO"
+    },
+    {
+      "id": "BeeLakeH",
+      "type": null,
+      "screen_name": "BeeLakeH"
+    },
+    {
+      "id": "PimpinVanSmack",
+      "type": null,
+      "screen_name": "PimpinVanSmack"
+    },
+    {
+      "id": "emilymentock",
+      "type": null,
+      "screen_name": "emilymentock"
+    },
+    {
+      "id": "AndrewMentock",
+      "type": null,
+      "screen_name": "AndrewMentock"
+    },
+    {
+      "id": "Matt_Snyder",
+      "type": null,
+      "screen_name": "Matt_Snyder"
+    },
+    {
+      "id": "HustleTheSavage",
+      "type": null,
+      "screen_name": "HustleTheSavage"
+    },
+    {
+      "id": "CP7NZ",
+      "type": null,
+      "screen_name": "CP7NZ"
+    },
+    {
+      "id": "AllBlacks",
+      "type": null,
+      "screen_name": "AllBlacks"
+    },
+    {
+      "id": "arban_garrett25",
+      "type": null,
+      "screen_name": "arban_garrett25"
+    },
+    {
+      "id": "CellyTooHardDew",
+      "type": null,
+      "screen_name": "CellyTooHardDew"
+    }
+  ],
+  "links": [
+    {
+      "source": "DjMorenoNJ",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "DjMorenoNJ",
+      "target": "landryyy14",
+      "type": "reply"
+    },
+    {
+      "source": "espn",
+      "target": "landryyy14",
+      "type": "reply"
+    },
+    {
+      "source": "danielsshitchip",
+      "target": "fg083",
+      "type": "reply"
+    },
+    {
+      "source": "ctsmith25",
+      "target": "cbsmith3",
+      "type": "reply"
+    },
+    {
+      "source": "ctsmith25",
+      "target": "CoachZachSmith",
+      "type": "reply"
+    },
+    {
+      "source": "ctsmith25",
+      "target": "kileysmiff",
+      "type": "reply"
+    },
+    {
+      "source": "cowboyNash19",
+      "target": "alyssababiee",
+      "type": "reply"
+    },
+    {
+      "source": "groughface",
+      "target": "Indians",
+      "type": "reply"
+    },
+    {
+      "source": "groughface",
+      "target": "Redskins",
+      "type": "reply"
+    },
+    {
+      "source": "ROYsoWavy",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "ROYsoWavy",
+      "target": "landryyy14",
+      "type": "reply"
+    },
+    {
+      "source": "oeste",
+      "target": "lgbtqfc",
+      "type": "reply"
+    },
+    {
+      "source": "buckmtim",
+      "target": "stevebullard",
+      "type": "reply"
+    },
+    {
+      "source": "_janizzle__",
+      "target": "King_Hoseok_",
+      "type": "reply"
+    },
+    {
+      "source": "SpencerTogia",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "ThedumbT",
+      "target": "TheBigLEEguer",
+      "type": "reply"
+    },
+    {
+      "source": "2Tanks_DRE",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "2Tanks_DRE",
+      "target": "landryyy14",
+      "type": "reply"
+    },
+    {
+      "source": "2Tanks_DRE",
+      "target": "BeulahKoale",
+      "type": "reply"
+    },
+    {
+      "source": "tropithedonpapi",
+      "target": "409Dj",
+      "type": "reply"
+    },
+    {
+      "source": "Tonyy_Stark",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "aniahlynn1",
+      "target": "hafa_gabe",
+      "type": "reply"
+    },
+    {
+      "source": "BangtanLena",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "YeahhhLex_",
+      "target": "lil_deharde",
+      "type": "reply"
+    },
+    {
+      "source": "timtoez09",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "spideyboii_",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "Ingridium",
+      "target": "BeulahKoale",
+      "type": "reply"
+    },
+    {
+      "source": "Ingridium",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "petite1908",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "DJSuchandSuch",
+      "target": "HumbleTeej",
+      "type": "reply"
+    },
+    {
+      "source": "edubblove",
+      "target": "gimmesamoa",
+      "type": "reply"
+    },
+    {
+      "source": "AnthonyF712",
+      "target": "NolaSignGuy",
+      "type": "reply"
+    },
+    {
+      "source": "Devon127Owen",
+      "target": "RayRayRVA",
+      "type": "reply"
+    },
+    {
+      "source": "YoungRecklesTek",
+      "target": "Optimus_Val",
+      "type": "reply"
+    },
+    {
+      "source": "joeloutsch1",
+      "target": "LBeaglesgirlsbb",
+      "type": "reply"
+    },
+    {
+      "source": "9DanielEnriquez",
+      "target": "anakin_otero",
+      "type": "reply"
+    },
+    {
+      "source": "Sanslow",
+      "target": "_marcusmariota",
+      "type": "reply"
+    },
+    {
+      "source": "Sanslow",
+      "target": "Titans",
+      "type": "reply"
+    },
+    {
+      "source": "MsVMarketing",
+      "target": "CoachRenae",
+      "type": "reply"
+    },
+    {
+      "source": "City_AWAYDCFC",
+      "target": "TheAnarcyclist",
+      "type": "reply"
+    },
+    {
+      "source": "nate2424shultz",
+      "target": "rpittma301",
+      "type": "reply"
+    },
+    {
+      "source": "MillerHHunter",
+      "target": "Mitch_Harper",
+      "type": "reply"
+    },
+    {
+      "source": "MillerHHunter",
+      "target": "CriddleBenjamin",
+      "type": "reply"
+    },
+    {
+      "source": "BiggDyll21",
+      "target": "Galvatran",
+      "type": "reply"
+    },
+    {
+      "source": "BPearlmanFSL",
+      "target": "KLaNasa23",
+      "type": "reply"
+    },
+    {
+      "source": "JP_Flash25",
+      "target": "iman_whaley4",
+      "type": "reply"
+    },
+    {
+      "source": "Andrade1323",
+      "target": "Bert_MU",
+      "type": "reply"
+    },
+    {
+      "source": "CGlaze81",
+      "target": "Tyler_Lennon",
+      "type": "reply"
+    },
+    {
+      "source": "Mom2JackJill",
+      "target": "breidenfehoko4",
+      "type": "reply"
+    },
+    {
+      "source": "just_eddiejr",
+      "target": "tj_lsudad",
+      "type": "reply"
+    },
+    {
+      "source": "YaBoyVickk",
+      "target": "LT2703",
+      "type": "reply"
+    },
+    {
+      "source": "CoachSwansonBH",
+      "target": "areid45",
+      "type": "reply"
+    },
+    {
+      "source": "CoachSwansonBH",
+      "target": "BHHSCoachBeard",
+      "type": "reply"
+    },
+    {
+      "source": "LSU_Sport",
+      "target": "LoughboroughSU",
+      "type": "reply"
+    },
+    {
+      "source": "N_Smith31",
+      "target": "johnnysnapback",
+      "type": "reply"
+    },
+    {
+      "source": "ju_HEARRDD_meh",
+      "target": "JohnCR03",
+      "type": "reply"
+    },
+    {
+      "source": "theregularfan1",
+      "target": "grind_stat3",
+      "type": "reply"
+    },
+    {
+      "source": "purcell52",
+      "target": "PaulMurph13",
+      "type": "reply"
+    },
+    {
+      "source": "ColbyGuges",
+      "target": "GugelmeyerLogan",
+      "type": "reply"
+    },
+    {
+      "source": "monroah",
+      "target": "ellenjanem01",
+      "type": "reply"
+    },
+    {
+      "source": "monroah",
+      "target": "fairestofthemal",
+      "type": "reply"
+    },
+    {
+      "source": "unstabile01",
+      "target": "joebrisson12",
+      "type": "reply"
+    },
+    {
+      "source": "AU_oleary",
+      "target": "mohnjayhall",
+      "type": "reply"
+    },
+    {
+      "source": "big_head09",
+      "target": "koanui_alameda3",
+      "type": "reply"
+    },
+    {
+      "source": "CozbyKylie",
+      "target": "kodyhall_",
+      "type": "reply"
+    },
+    {
+      "source": "AJ_ThompsonJr",
+      "target": "Tuaamann",
+      "type": "reply"
+    },
+    {
+      "source": "Spellman2796",
+      "target": "jacob_spellman",
+      "type": "reply"
+    },
+    {
+      "source": "YTCcaraballo",
+      "target": "Tuaamann",
+      "type": "reply"
+    },
+    {
+      "source": "schnekser",
+      "target": "PREAUX_FISH",
+      "type": "reply"
+    },
+    {
+      "source": "PilgrimBruce",
+      "target": "LockItInonFS1",
+      "type": "reply"
+    },
+    {
+      "source": "PilgrimBruce",
+      "target": "rachelbonnetta",
+      "type": "reply"
+    },
+    {
+      "source": "CGH_Grant",
+      "target": "Tuaamann",
+      "type": "reply"
+    },
+    {
+      "source": "SamSchneider43",
+      "target": "TBow42",
+      "type": "reply"
+    },
+    {
+      "source": "JakeDominick2",
+      "target": "LSUfootball",
+      "type": "reply"
+    },
+    {
+      "source": "jeskindly414",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "jeskindly414",
+      "target": "landryyy14",
+      "type": "reply"
+    },
+    {
+      "source": "TheLBaby7",
+      "target": "juwan21_",
+      "type": "reply"
+    },
+    {
+      "source": "Ortizc_14",
+      "target": "JetplaneJAY",
+      "type": "reply"
+    },
+    {
+      "source": "Ortizc_14",
+      "target": "HollAtYaBoyJosh",
+      "type": "reply"
+    },
+    {
+      "source": "Parapon_Peter",
+      "target": "Its_all_Goody41",
+      "type": "reply"
+    },
+    {
+      "source": "ford_frog",
+      "target": "DivaMomDJ",
+      "type": "reply"
+    },
+    {
+      "source": "Rogue2Riches",
+      "target": "espn",
+      "type": "reply"
+    },
+    {
+      "source": "Rogue2Riches",
+      "target": "landryyy14",
+      "type": "reply"
+    },
+    {
+      "source": "VanHorn_GFHS",
+      "target": "RealLife_J_LO",
+      "type": "reply"
+    },
+    {
+      "source": "BeeLakeH",
+      "target": "PimpinVanSmack",
+      "type": "reply"
+    },
+    {
+      "source": "emilymentock",
+      "target": "AndrewMentock",
+      "type": "reply"
+    },
+    {
+      "source": "Matt_Snyder",
+      "target": "HustleTheSavage",
+      "type": "reply"
+    },
+    {
+      "source": "CP7NZ",
+      "target": "AllBlacks",
+      "type": "reply"
+    },
+    {
+      "source": "arban_garrett25",
+      "target": "CellyTooHardDew",
+      "type": "reply"
+    }
+  ]
+};
+
+var link = svg.append("g")
+    .attr("class", "links")
+  .selectAll("line")
+  .data(graph.links)
+  .enter().append("line")
+    .attr("class", function(d) { return d.type; });
+
+var node = svg.append("g")
+    .attr("class", "nodes")
+  .selectAll("circle")
+  .data(graph.nodes)
+  .enter().append("circle")
+    .attr("r", 5)
+    .attr("class", function(d) { return d.type; })
+    .call(d3.drag()
+        .on("start", dragstarted)
+        .on("drag", dragged)
+        .on("end", dragended));
+
+node.append("title")
+    .text(function(d) { return d.id; });
+
+node.on("click", function(d) {
+  $("#tweet").empty();
+
+  var rect = this.getBoundingClientRect();
+  var paneHeight = d.type == "retweet" ? 50 : 200;
+  var paneWidth = d.type == "retweet" ? 75 : 500;
+
+  var left = rect.x - paneWidth / 2;
+  if (rect.y > height / 2) {
+    var top = rect.y - paneHeight;
+  } else {
+    var top = rect.y + 10;
+  }
+
+  var tweet = $("#tweet");
+  tweet.css({left: left, top: top});
+
+  if (d.type == "retweet") {
+    twttr.widgets.createFollowButton(d.screen_name, tweet[0], {size: "large"});
+  } else {
+    twttr.widgets.createTweet(d.id, tweet[0], {conversation: "none"});
+  }
+
+  d3.event.stopPropagation();
+
+});
+
+svg.on("click", function(d) {
+  $("#tweet").empty();
+});
+
+simulation
+    .nodes(graph.nodes)
+    .on("tick", ticked);
+
+simulation.force("link")
+    .links(graph.links);
+
+function ticked() {
+  link
+      .attr("x1", function(d) { return d.source.x; })
+      .attr("y1", function(d) { return d.source.y; })
+      .attr("x2", function(d) { return d.target.x; })
+      .attr("y2", function(d) { return d.target.y; });
+
+  node
+      .attr("cx", function(d) { return d.x; })
+      .attr("cy", function(d) { return d.y; });
+}
+
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+
+</script>
