@@ -4108,6 +4108,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Siutu Pulou",
+        "screen_name": "CU2ROX",
+        "created_at": "2018-11-05T04:30:44+00:00Z",
+        "text": "#truth https://t.co/8FLwUkj1kJ",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/999186741704585217/1i82mpO8_normal.jpg",
+        "url": "http://twitter.com/CU2ROX/status/1059301966755418112"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              174.161834,
+              -37.292621
+            ],
+            [
+              175.550653,
+              -37.292621
+            ],
+            [
+              175.550653,
+              -35.898837
+            ],
+            [
+              174.161834,
+              -35.898837
+            ],
+            [
+              174.161834,
+              -37.292621
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "\ud835\udcf4\ud835\udcee\ud835\udcf2\ud835\udcea\ud835\udcf2\ud835\udcfb\ud835\udcea \ud835\udcfe\ud835\udcf7\ud835\udcf2\ud835\udcfa\ud835\udcfe\ud835\udcee \ud83e\ude90\ud83e\uddda\ud83c\udffe\u200d\u2642\ufe0f\ud83d\udcab",
         "screen_name": "YoungKeiaira",
         "created_at": "2018-11-05T06:30:51+00:00Z",
@@ -4138,6 +4176,82 @@
             [
               -95.823268,
               29.522325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Joseph",
+        "screen_name": "_JOEBEAR_",
+        "created_at": "2018-11-05T08:27:30+00:00Z",
+        "text": "I did this for high school ima be honest... this shit use to fire me the fuck up before I laid your bitch ass out \ud83d\ude02\ud83d\ude02 That was my attitude \ud83d\udcaf\ud83d\udcaf https://t.co/cKkd9DKxUg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1186660589679996929/Hwhz_DNh_normal.jpg",
+        "url": "http://twitter.com/_JOEBEAR_/status/1059361553466572800"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.035311,
+              37.193164
+            ],
+            [
+              -121.71215,
+              37.193164
+            ],
+            [
+              -121.71215,
+              37.469154
+            ],
+            [
+              -122.035311,
+              37.469154
+            ],
+            [
+              -122.035311,
+              37.193164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\ud83e\udd64",
+        "screen_name": "ShakeZuIa",
+        "created_at": "2018-11-05T12:56:12+00:00Z",
+        "text": "oh. brother. https://t.co/ZTusgJ35cC",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217569420618412034/39R47G8O_normal.jpg",
+        "url": "http://twitter.com/ShakeZuIa/status/1059429172886544386"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -74.044085,
+              40.7336
+            ],
+            [
+              -74.020431,
+              40.7336
+            ],
+            [
+              -74.020431,
+              40.7591594
+            ],
+            [
+              -74.044085,
+              40.7591594
+            ],
+            [
+              -74.044085,
+              40.7336
             ]
           ]
         ]
@@ -4184,6 +4298,196 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Daniel",
+        "screen_name": "DahlingerD",
+        "created_at": "2018-11-05T13:25:09+00:00Z",
+        "text": "Well it's the family of an LSU player with Maori roots doin it... https://t.co/VPvKu6pDwq",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1135289215724544000/oelbTy3I_normal.jpg",
+        "url": "http://twitter.com/DahlingerD/status/1059436455662178304"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.778559,
+              29.141956
+            ],
+            [
+              -98.302744,
+              29.141956
+            ],
+            [
+              -98.302744,
+              29.693046
+            ],
+            [
+              -98.778559,
+              29.693046
+            ],
+            [
+              -98.778559,
+              29.141956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MULA\ud83d\udc78\ud83c\udffd",
+        "screen_name": "jess_mula",
+        "created_at": "2018-11-05T13:44:32+00:00Z",
+        "text": "I love allllaaaadisssss \ud83d\ude0d\ud83d\ude0d #maori https://t.co/uY3g1AHdH2",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1057504426863280129/rCqBM91v_normal.jpg",
+        "url": "http://twitter.com/jess_mula/status/1059441334984077313"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.823268,
+              29.522325
+            ],
+            [
+              -95.069705,
+              29.522325
+            ],
+            [
+              -95.069705,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              29.522325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MUSICALDOS|SPIFFYDOS\ud83e\udd34\ud83c\udffe1/29/98\u2652\ufe0f",
+        "screen_name": "GloboyEbo",
+        "created_at": "2018-11-05T14:40:23+00:00Z",
+        "text": "White folks are thieves. https://t.co/5zu9hQP0Ox",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214976296700252160/SoU_oI7m_normal.jpg",
+        "url": "http://twitter.com/GloboyEbo/status/1059455392613367809"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.801826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maganda",
+        "screen_name": "CelesteMaiya",
+        "created_at": "2018-11-05T14:47:02+00:00Z",
+        "text": "Let these uncultured swines know what the fuck going on https://t.co/5P3ISljP6L",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/980176358470021120/7xDPZmoh_normal.jpg",
+        "url": "http://twitter.com/CelesteMaiya/status/1059457062164410368"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.823268,
+              29.522325
+            ],
+            [
+              -95.069705,
+              29.522325
+            ],
+            [
+              -95.069705,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              29.522325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "26-0",
+        "screen_name": "MrBlair24",
+        "created_at": "2018-11-05T14:49:23+00:00Z",
+        "text": "But it's still happening with your fellow countrymen at LSU, to miss this point is to intentionally look for offense https://t.co/2svr3ZG82t",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1135175078398844928/w_iuH43F_normal.jpg",
+        "url": "http://twitter.com/MrBlair24/status/1059457654492405760"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.200169,
+              39.832013
+            ],
+            [
+              -82.7713751,
+              39.832013
+            ],
+            [
+              -82.7713751,
+              40.157354
+            ],
+            [
+              -83.200169,
+              40.157354
+            ],
+            [
+              -83.200169,
+              39.832013
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Senpai \u26e9",
         "screen_name": "yamanjapan_",
         "created_at": "2018-11-05T15:58:27+00:00Z",
@@ -4214,6 +4518,44 @@
             [
               -81.39342,
               41.065438
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "griffen chaney",
+        "screen_name": "griff_chaney",
+        "created_at": "2018-11-05T16:04:09+00:00Z",
+        "text": "they did the haka, at LSU, therefore the reasoning for saying LSU haka, chill big guy no one is trying to appropriate anything https://t.co/2aZvwJ86hc",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195045921794461696/30zZlIfB_normal.jpg",
+        "url": "http://twitter.com/griff_chaney/status/1059476472799395840"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -94.043628,
+              28.855128
+            ],
+            [
+              -88.758389,
+              28.855128
+            ],
+            [
+              -88.758389,
+              33.019544
+            ],
+            [
+              -94.043628,
+              33.019544
+            ],
+            [
+              -94.043628,
+              28.855128
             ]
           ]
         ]
@@ -4450,6 +4792,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "thugg unicorn \ud83e\udd84",
+        "screen_name": "dollfaisedbeaut",
+        "created_at": "2018-11-05T18:23:37+00:00Z",
+        "text": "Here for it https://t.co/XD2sFZK45P",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1184601726482968576/ODCKypPk_normal.jpg",
+        "url": "http://twitter.com/dollfaisedbeaut/status/1059511570538078208"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -84.576827,
+              33.6475029
+            ],
+            [
+              -84.289385,
+              33.6475029
+            ],
+            [
+              -84.289385,
+              33.8868859
+            ],
+            [
+              -84.576827,
+              33.8868859
+            ],
+            [
+              -84.576827,
+              33.6475029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "crystal math",
         "screen_name": "lolesaiga",
         "created_at": "2018-11-05T19:37:51+00:00Z",
@@ -4564,6 +4944,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "\ud83d\udde3GC Quon\u2122\ufe0f",
+        "screen_name": "_Jaquon_",
+        "created_at": "2018-11-05T22:01:25+00:00Z",
+        "text": "Ii8 Now LSU yall asses done already lost \u2018! Dont make this man Summons a Volcanoe god On yall Ass\ud83d\ude02\ud83d\ude2d https://t.co/MI6ROnll6V",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1172266725875863552/ZHzJV0oM_normal.jpg",
+        "url": "http://twitter.com/_Jaquon_/status/1059566378385096705"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92.135057,
+              32.429655
+            ],
+            [
+              -92.018346,
+              32.429655
+            ],
+            [
+              -92.018346,
+              32.612831
+            ],
+            [
+              -92.135057,
+              32.612831
+            ],
+            [
+              -92.135057,
+              32.429655
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "BIGWOP\ud83e\udddf\u200d\u2642\ufe0f\ud83e\uddea",
         "screen_name": "guwop93",
         "created_at": "2018-11-05T22:29:19+00:00Z",
@@ -4594,6 +5012,44 @@
             [
               -84.19397,
               35.831436
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gemini\u2019s Whore\ud83d\udda4",
+        "screen_name": "_shayyy___",
+        "created_at": "2018-11-05T22:49:48+00:00Z",
+        "text": "I love it!!!! https://t.co/koulZ6SHjg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1196172989605306368/LtwBfVEb_normal.jpg",
+        "url": "http://twitter.com/_shayyy___/status/1059578558333493248"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.686106,
+              29.5433718
+            ],
+            [
+              -95.5772726,
+              29.5433718
+            ],
+            [
+              -95.5772726,
+              29.663556
+            ],
+            [
+              -95.686106,
+              29.663556
+            ],
+            [
+              -95.686106,
+              29.5433718
             ]
           ]
         ]
@@ -4678,6 +5134,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Dialectic Dan \ud83e\udde2",
+        "screen_name": "ARealTan",
+        "created_at": "2018-11-05T23:45:14+00:00Z",
+        "text": "Public Service Announcement https://t.co/mQNB9IrpDk",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/641518835460247552/MO-rHwBb_normal.jpg",
+        "url": "http://twitter.com/ARealTan/status/1059592507883962369"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.0656278,
+              35.968624
+            ],
+            [
+              -95.761656,
+              35.968624
+            ],
+            [
+              -95.761656,
+              36.250159
+            ],
+            [
+              -96.0656278,
+              36.250159
+            ],
+            [
+              -96.0656278,
+              35.968624
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "big nik\ud83c\udde7\ud83c\udde7",
         "screen_name": "BitchToLegit",
         "created_at": "2018-11-06T00:52:11+00:00Z",
@@ -4708,6 +5202,82 @@
             [
               -59.6506083,
               13.0441327
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "I, too, am America",
+        "screen_name": "CoolCaelLee",
+        "created_at": "2018-11-06T01:26:52+00:00Z",
+        "text": "Beautiful! Powerful. https://t.co/inZlgSN3H3",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1195089563368271876/whIynWW1_normal.jpg",
+        "url": "http://twitter.com/CoolCaelLee/status/1059618084758188032"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.801826
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\ud83c\udde8\ud83c\uddf2 B. Keith Hotchkins",
+        "screen_name": "DrBHotchkins",
+        "created_at": "2018-11-06T01:28:33+00:00Z",
+        "text": "Colonization has a firm place in American Culture as \u201cthey\u201d always take the things they did not create... @LSUfootball please make the public clarification, thanks. #MaoriPower https://t.co/UQw5XA4wMb",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191089145294118913/lGoA4ek0_normal.jpg",
+        "url": "http://twitter.com/DrBHotchkins/status/1059618506235351043"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.033765,
+              33.4471196
+            ],
+            [
+              -101.760581,
+              33.4471196
+            ],
+            [
+              -101.760581,
+              33.693933
+            ],
+            [
+              -102.033765,
+              33.693933
+            ],
+            [
+              -102.033765,
+              33.4471196
             ]
           ]
         ]
@@ -4830,6 +5400,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Gerron Jordan",
+        "screen_name": "GerronJordan",
+        "created_at": "2018-11-06T03:14:12+00:00Z",
+        "text": "#DiversityMatters @espn https://t.co/rwpT4C140O",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154320128164663296/lf-Mk9AK_normal.jpg",
+        "url": "http://twitter.com/GerronJordan/status/1059645095060877312"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.218994,
+              30.354161
+            ],
+            [
+              -90.962605,
+              30.354161
+            ],
+            [
+              -90.962605,
+              30.5640391
+            ],
+            [
+              -91.218994,
+              30.5640391
+            ],
+            [
+              -91.218994,
+              30.354161
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "ISSA GIRL",
         "screen_name": "CORIEBITCH",
         "created_at": "2018-11-06T03:21:49+00:00Z",
@@ -4860,6 +5468,44 @@
             [
               -95.823268,
               29.522325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "nino",
+        "screen_name": "neenthekid",
+        "created_at": "2018-11-06T03:32:12+00:00Z",
+        "text": "@damien_goose https://t.co/HLhiIbIQuQ",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214113467457843201/RUmoBU64_normal.jpg",
+        "url": "http://twitter.com/neenthekid/status/1059649624674394112"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.095586,
+              40.3615796
+            ],
+            [
+              -79.8657933,
+              40.3615796
+            ],
+            [
+              -79.8657933,
+              40.501198
+            ],
+            [
+              -80.095586,
+              40.501198
+            ],
+            [
+              -80.095586,
+              40.3615796
             ]
           ]
         ]
@@ -5438,6 +6084,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "\u264e\ufe0f\ud83e\udd89",
+        "screen_name": "lifeofthegreat",
+        "created_at": "2018-11-06T15:03:02+00:00Z",
+        "text": "Tell them! https://t.co/pxrTzsuMzC",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1141802773651980288/wkw-9Aa3_normal.jpg",
+        "url": "http://twitter.com/lifeofthegreat/status/1059823480324014080"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112.3239143,
+              33.29026
+            ],
+            [
+              -111.9254391,
+              33.29026
+            ],
+            [
+              -111.9254391,
+              33.8154652
+            ],
+            [
+              -112.3239143,
+              33.8154652
+            ],
+            [
+              -112.3239143,
+              33.29026
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "DJ PrimeTime\ud83c\udfa7 \u2122",
         "screen_name": "DJ_PrimeTime",
         "created_at": "2018-11-06T15:54:36+00:00Z",
@@ -5658,6 +6342,44 @@
             [
               -84.576827,
               33.6475029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "the depressed baker",
+        "screen_name": "TeaFreak97",
+        "created_at": "2018-11-12T04:27:41+00:00Z",
+        "text": "@TylerFrix this is why I said we should NEVER do this. Please educate yourself. https://t.co/kWapWYV9Uk",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1211037705494237186/GF2YAimv_normal.jpg",
+        "url": "http://twitter.com/TeaFreak97/status/1061837916610138113"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.353955,
+              32.04683
+            ],
+            [
+              -78.499301,
+              32.04683
+            ],
+            [
+              -78.499301,
+              35.215449
+            ],
+            [
+              -83.353955,
+              35.215449
+            ],
+            [
+              -83.353955,
+              32.04683
             ]
           ]
         ]
