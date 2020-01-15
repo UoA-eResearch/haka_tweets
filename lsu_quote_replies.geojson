@@ -4260,6 +4260,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Talk2Jake",
+        "screen_name": "talk2jw",
+        "created_at": "2018-11-05T16:12:18+00:00Z",
+        "text": "@BeulahKoale Once the culture is shared amongst the mainstream it\u2019s seen as entertainment and not scarred it\u2019s sad to say but people don\u2019t research or value what\u2019s not theirs. They exploit and barrow until the trend over not realizing the culture is real and not made for amusement.",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1027565205981544449/8TvQpvz8_normal.jpg",
+        "url": "http://twitter.com/talk2jw/status/1059478520588464134"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.668404,
+              33.704538
+            ],
+            [
+              -118.155409,
+              33.704538
+            ],
+            [
+              -118.155409,
+              34.337041
+            ],
+            [
+              -118.668404,
+              34.337041
+            ],
+            [
+              -118.668404,
+              33.704538
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "prince$$",
         "screen_name": "sisialexandria",
         "created_at": "2018-11-05T16:14:57+00:00Z",
@@ -4480,6 +4518,44 @@
             [
               -158.176921,
               21.3689869
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "lagniappe \u2652\ufe0f",
+        "screen_name": "Malibubarbarian",
+        "created_at": "2018-11-05T21:54:42+00:00Z",
+        "text": "@BeulahKoale This is sexy",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1199155741099204608/NmW5x1Nb_normal.jpg",
+        "url": "http://twitter.com/Malibubarbarian/status/1059564690299387904"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.977527,
+              32.620678
+            ],
+            [
+              -96.54598,
+              32.620678
+            ],
+            [
+              -96.54598,
+              33.019039
+            ],
+            [
+              -96.977527,
+              33.019039
+            ],
+            [
+              -96.977527,
+              32.620678
             ]
           ]
         ]
@@ -4754,6 +4830,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "ISSA GIRL",
+        "screen_name": "CORIEBITCH",
+        "created_at": "2018-11-06T03:21:49+00:00Z",
+        "text": "@BeulahKoale Big facts. Welcome to America. Where Cultural Appropriation is more common then common sense.",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1207394160459812864/78u9nfDc_normal.jpg",
+        "url": "http://twitter.com/CORIEBITCH/status/1059647011622920194"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.823268,
+              29.522325
+            ],
+            [
+              -95.069705,
+              29.522325
+            ],
+            [
+              -95.069705,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              29.522325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Smash Williams",
         "screen_name": "Big_D_The_Don",
         "created_at": "2018-11-06T04:10:52+00:00Z",
@@ -4860,6 +4974,44 @@
             [
               -122.2663975,
               47.257029
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "juanez14",
+        "screen_name": "JuanMS14",
+        "created_at": "2018-11-06T05:12:06+00:00Z",
+        "text": "@TheSepulverizer @_DCBreeze @BeulahKoale @abeale202 That\u2019s not even close to being the same thing lol",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/488545201317621760/l0QRmcuU_normal.jpeg",
+        "url": "http://twitter.com/JuanMS14/status/1059674764833423361"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.823268,
+              29.522325
+            ],
+            [
+              -95.069705,
+              29.522325
+            ],
+            [
+              -95.069705,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              29.522325
             ]
           ]
         ]
@@ -4982,6 +5134,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Polishpounder8",
+        "screen_name": "Kody_kaufmann8",
+        "created_at": "2018-11-06T05:53:42+00:00Z",
+        "text": "@BeulahKoale @Butler522",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1210765027331850240/aloES9z__normal.jpg",
+        "url": "http://twitter.com/Kody_kaufmann8/status/1059685234302689281"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -89.3680258,
+              43.215411
+            ],
+            [
+              -89.323793,
+              43.215411
+            ],
+            [
+              -89.323793,
+              43.267036
+            ],
+            [
+              -89.3680258,
+              43.267036
+            ],
+            [
+              -89.3680258,
+              43.215411
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "cardo",
         "screen_name": "cardoGU",
         "created_at": "2018-11-06T06:04:43+00:00Z",
@@ -5050,6 +5240,44 @@
             [
               -114.052999,
               36.997905
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mister Alexander",
+        "screen_name": "Mister_Wont_Die",
+        "created_at": "2018-11-06T06:48:45+00:00Z",
+        "text": "@BeulahKoale @htxben Gotta set them str8 before they #DISCOVER that too huh??? Lol",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1129569400842014720/5kXCcxMa_normal.jpg",
+        "url": "http://twitter.com/Mister_Wont_Die/status/1059699089410002944"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.823268,
+              29.522325
+            ],
+            [
+              -95.069705,
+              29.522325
+            ],
+            [
+              -95.069705,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              29.522325
             ]
           ]
         ]
@@ -5210,6 +5438,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "DJ PrimeTime\ud83c\udfa7 \u2122",
+        "screen_name": "DJ_PrimeTime",
+        "created_at": "2018-11-06T15:54:36+00:00Z",
+        "text": "@BeulahKoale @CocoaBrownJesus \ud83d\udde3\ud83d\udde3\ud83d\udde3 LET EM KNOW! \u270a\ud83c\udffd",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1113266285855563777/yqQyIMYY_normal.jpg",
+        "url": "http://twitter.com/DJ_PrimeTime/status/1059836455730712576"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95.823268,
+              29.522325
+            ],
+            [
+              -95.069705,
+              29.522325
+            ],
+            [
+              -95.069705,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              30.1546646
+            ],
+            [
+              -95.823268,
+              29.522325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "danieL",
         "screen_name": "Candanielas",
         "created_at": "2018-11-07T02:05:43+00:00Z",
@@ -5240,6 +5506,44 @@
             [
               -122.035311,
               37.193164
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rene Connelly",
+        "screen_name": "ReneConnelly",
+        "created_at": "2018-11-07T02:24:14+00:00Z",
+        "text": "@SavionWright @espn @landryyy14 We know it\u2019s not LSU Haka, it is from their culture. We just claim it because they are doing it for their son, team and fans. Just enjoy. #ForeverLSU",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/715707747761659905/ZmT-h2x-_normal.jpg",
+        "url": "http://twitter.com/ReneConnelly/status/1059994908780625920"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.655009,
+              30.146096
+            ],
+            [
+              -88.097889,
+              30.146096
+            ],
+            [
+              -88.097889,
+              34.995968
+            ],
+            [
+              -91.655009,
+              34.995968
+            ],
+            [
+              -91.655009,
+              30.146096
             ]
           ]
         ]
@@ -5286,6 +5590,44 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "\ud83c\udf00Rika too live Crew\ud83c\udf00",
+        "screen_name": "Revleto_89",
+        "created_at": "2018-11-12T02:14:26+00:00Z",
+        "text": "@BeulahKoale @ReignOfApril Better correct then for they take y\u2019all shit! \ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23 -black ppl",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102225772968923136/iQkTmFOb_normal.jpg",
+        "url": "http://twitter.com/Revleto_89/status/1061804379852980230"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.507905,
+              28.3882177
+            ],
+            [
+              -81.2276403,
+              28.3882177
+            ],
+            [
+              -81.2276403,
+              28.615139
+            ],
+            [
+              -81.507905,
+              28.615139
+            ],
+            [
+              -81.507905,
+              28.3882177
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Blake \ud83d\udcb5",
         "screen_name": "justblakke",
         "created_at": "2018-11-12T02:32:03+00:00Z",
@@ -5324,36 +5666,36 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Rene Connelly",
-        "screen_name": "ReneConnelly",
-        "created_at": "2018-11-07T02:24:14+00:00Z",
-        "text": "@SavionWright @espn @landryyy14 We know it\u2019s not LSU Haka, it is from their culture. We just claim it because they are doing it for their son, team and fans. Just enjoy. #ForeverLSU",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/715707747761659905/ZmT-h2x-_normal.jpg",
-        "url": "http://twitter.com/ReneConnelly/status/1059994908780625920"
+        "name": "barbwire",
+        "screen_name": "barbwir33913971",
+        "created_at": "2018-11-13T05:48:37+00:00Z",
+        "text": "@BeulahKoale @JoyRoseM This is awesome!",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/979160745790251008/e8_gCw4Y_normal.jpg",
+        "url": "http://twitter.com/barbwir33913971/status/1062220669943869440"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -91.655009,
-              30.146096
+              -124.848975,
+              45.543542
             ],
             [
-              -88.097889,
-              30.146096
+              -116.915989,
+              45.543542
             ],
             [
-              -88.097889,
-              34.995968
+              -116.915989,
+              49.0025023
             ],
             [
-              -91.655009,
-              34.995968
+              -124.848975,
+              49.0025023
             ],
             [
-              -91.655009,
-              30.146096
+              -124.848975,
+              45.543542
             ]
           ]
         ]
