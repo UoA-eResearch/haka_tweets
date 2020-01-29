@@ -1,4 +1,4 @@
-**TIP: You should really use [Treeverse](https://treeverse.app/) instead as it's easy to use, compatible with the new Twitter frontend/API v2, and visualises the data in a tree view. The data is also available in that tool as JSON.**
+**TIP: If you only want to scrape the replies to a few Tweets, you should really use [Treeverse](https://treeverse.app/) instead as it's easy to use, compatible with the new Twitter frontend/API v2, and visualises the data in a tree view. The data is also available in that tool as JSON.**
 
 ----
 
