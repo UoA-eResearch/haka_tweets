@@ -4,24 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ryne Adkins",
-        "screen_name": "Adkins_Ryne",
-        "created_at": "2018-11-03T22:48:56+00:00Z",
-        "text": "Let\u2019s see them dance after the Tide comes in! #RollTide https://t.co/msJ3sViAHX",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1186804587531030530/Z0kdT4BD_normal.jpg",
-        "url": "http://twitter.com/Adkins_Ryne/status/1058853561382125568"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.57076347470958,
-          38.752696992854325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "M. Slaton\ud83d\udd76",
         "screen_name": "omzlat",
         "created_at": "2018-11-03T22:49:06+00:00Z",
@@ -32,8 +14,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.09084568172514,
-          33.531200409351705
+          -82.09791007584607,
+          33.5203753328301
         ]
       }
     },
@@ -50,8 +32,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.23598546731236,
-          25.787807916840627
+          -80.23844386400827,
+          25.783141106474375
         ]
       }
     },
@@ -62,14 +44,14 @@
         "screen_name": "Tony2ones",
         "created_at": "2018-11-03T22:49:46+00:00Z",
         "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25LSU by 90 !\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/6gs3OSTgTp",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1213134480438964225/YS2rm8xY_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1222268253508194304/Ma9g5pRK_normal.jpg",
         "url": "http://twitter.com/Tony2ones/status/1058853773135753216"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.81712282026294,
-          34.69210728566265
+          -82.81493352863909,
+          34.692449241217425
         ]
       }
     },
@@ -86,8 +68,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.17835767770694,
-          32.6726867652261
+          -83.16570678990286,
+          32.677390509827156
         ]
       }
     },
@@ -104,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.27491792990459,
-          39.94586161197264
+          -75.2698730068219,
+          39.958010055962404
         ]
       }
     },
@@ -116,14 +98,14 @@
         "screen_name": "2cozy_",
         "created_at": "2018-11-03T22:50:22+00:00Z",
         "text": "All this to get bullied by the Bama O-line men https://t.co/2Ghw7GnPZi",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1211564071243436032/G14_7Ov__normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221875716435927040/3CowMWSp_normal.jpg",
         "url": "http://twitter.com/2cozy_/status/1058853923841339392"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.13950802254453,
-          32.69626433374398
+          -97.12898819767305,
+          32.69457130178657
         ]
       }
     },
@@ -140,8 +122,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.63191249543861,
-          36.06510121988146
+          -86.63486962531519,
+          36.08060114406526
         ]
       }
     },
@@ -158,8 +140,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.30894136566722,
-          37.27239001747039
+          -119.30891494005283,
+          37.26589227254413
         ]
       }
     },
@@ -176,8 +158,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.29286401918284,
-          47.17158773237992
+          -122.29172374462391,
+          47.171606407030104
         ]
       }
     },
@@ -188,14 +170,14 @@
         "screen_name": "Spellman2796",
         "created_at": "2018-11-03T22:51:06+00:00Z",
         "text": "@jacob_spellman \ud83d\udc40\ud83d\udc40\ud83d\udc40 This is DOPE! https://t.co/FAHfAcaczh",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1189772294270472197/fz9jRL7G_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220002857967083521/dcZBOq4z_normal.jpg",
         "url": "http://twitter.com/Spellman2796/status/1058854106759159810"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.33392394521547,
-          28.23072420762872
+          -82.31824004513699,
+          28.233316286731032
         ]
       }
     },
@@ -212,8 +194,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.82863140810396,
-          39.75352626600951
+          -94.83341055276975,
+          39.74959891696334
         ]
       }
     },
@@ -224,14 +206,14 @@
         "screen_name": "1charvo",
         "created_at": "2018-11-03T22:51:53+00:00Z",
         "text": "Lol https://t.co/3hdpg7PZ8j",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1217008190346362880/eRL1SvE__normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1222001430401339393/pqLhamBm_normal.jpg",
         "url": "http://twitter.com/1charvo/status/1058854306437304320"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.18108798203158,
-          32.6852067566375
+          -83.16755087594667,
+          32.68735987749411
         ]
       }
     },
@@ -248,8 +230,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.17648161645691,
-          32.67515952097789
+          -83.17930498795799,
+          32.677882055464295
         ]
       }
     },
@@ -266,8 +248,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4419968895141,
-          37.76363125175698
+          -122.44514013017572,
+          37.77075145263495
         ]
       }
     },
@@ -284,8 +266,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.41208622126567,
-          31.799685608781072
+          -106.42222050399249,
+          31.789896143194632
         ]
       }
     },
@@ -302,8 +284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.77718637485823,
-          37.83153948812744
+          -85.76922640901567,
+          37.82021736586512
         ]
       }
     },
@@ -320,8 +302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.7322217918508,
-          41.83393561178847
+          -87.72653645175407,
+          41.826255931929204
         ]
       }
     },
@@ -338,8 +320,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.89845502991442,
-          35.98775218225919
+          -78.8999129514898,
+          35.98711171136671
         ]
       }
     },
@@ -356,8 +338,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.42194564721098,
-          41.948880012906635
+          -88.42088310854788,
+          41.95040294889733
         ]
       }
     },
@@ -374,8 +356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.66417699034993,
-          40.36374208538812
+          -82.66554261313395,
+          40.371421097642674
         ]
       }
     },
@@ -392,8 +374,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.76692307420521,
-          42.744334975555255
+          -75.77479287806861,
+          42.7379547484338
         ]
       }
     },
@@ -410,8 +392,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.93360310028868,
-          33.292788545394096
+          -86.94380298070942,
+          33.290791403620105
         ]
       }
     },
@@ -428,8 +410,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.87032362360107,
-          32.571975925263985
+          -89.87333043617653,
+          32.575648857462895
         ]
       }
     },
@@ -446,8 +428,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.75186640188066,
-          41.044088862777826
+          -80.76145266759941,
+          41.03170307556751
         ]
       }
     },
@@ -464,8 +446,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.67657335538124,
-          38.5270168817874
+          -82.67625971362348,
+          38.519970553034604
         ]
       }
     },
@@ -482,8 +464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.81460470279471,
-          33.67615992286567
+          -86.82534352789345,
+          33.65840112707038
         ]
       }
     },
@@ -500,8 +482,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.14045532073374,
-          26.14178212952158
+          -80.1398592282405,
+          26.14876556124247
         ]
       }
     },
@@ -518,8 +500,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.76989692876508,
-          37.81506099148418
+          -85.77068986278013,
+          37.813987542606945
         ]
       }
     },
@@ -536,8 +518,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.72329232207827,
-          41.82609261869976
+          -87.74036930008045,
+          41.83804135704402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "B\u00e6rent",
+        "screen_name": "Brent_McLovin",
+        "created_at": "2018-11-03T23:00:29+00:00Z",
+        "text": "@Cerebral_ICON @SaintsNation7 @espn @landryyy14 @Saints Yikes",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214117938422108160/pyPe3qGP_normal.jpg",
+        "url": "http://twitter.com/Brent_McLovin/status/1058856467732647936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.29448783530341,
+          38.76133142908025
         ]
       }
     },
@@ -554,8 +554,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.02271406100083,
-          47.37305690595929
+          -122.03855924818048,
+          47.36859833637645
         ]
       }
     },
@@ -572,8 +572,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -119.31098754967995,
-          37.279161193009685
+          -119.31326942825442,
+          37.26389741441298
         ]
       }
     },
@@ -590,8 +590,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.55627307582716,
-          40.64500335355602
+          -80.56410206921795,
+          40.638074487033556
         ]
       }
     },
@@ -608,8 +608,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.31960471211914,
-          29.510683400451043
+          -98.31688486355388,
+          29.50601392161001
         ]
       }
     },
@@ -626,8 +626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.07462314374028,
-          33.132044458236756
+          -97.05931978433337,
+          33.141257459974184
         ]
       }
     },
@@ -644,8 +644,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.79831391320195,
-          36.21000439398911
+          -86.78424632032137,
+          36.19413242562719
         ]
       }
     },
@@ -662,8 +662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.47176881398809,
-          43.56901568405897
+          -80.47222714483166,
+          43.5696767304534
         ]
       }
     },
@@ -680,8 +680,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.762549938673,
-          30.317345949614534
+          -97.76033265861636,
+          30.329383464529005
         ]
       }
     },
@@ -698,8 +698,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.08508372926902,
-          30.44947255143377
+          -91.09639563352951,
+          30.45294132430447
         ]
       }
     },
@@ -716,8 +716,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.49223060936312,
-          32.5923469709549
+          -85.48755068195369,
+          32.593576633981115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "David Brantley",
+        "screen_name": "DBo90",
+        "created_at": "2018-11-03T23:09:44+00:00Z",
+        "text": "@bonksrealm @thEMANacho @espn @landryyy14 https://t.co/jojmSemRCx",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1079856553803608067/P3T9mBz6_normal.jpg",
+        "url": "http://twitter.com/DBo90/status/1058858797337325571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0978192380818,
+          30.458251720814086
         ]
       }
     },
@@ -734,15 +752,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.95874576366577,
-          35.97931398672335
+          -83.96044864959735,
+          35.97890848517296
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Eze F. Baby",
+        "name": "RIP Kobe",
         "screen_name": "SheSo_EZE",
         "created_at": "2018-11-03T23:11:25+00:00Z",
         "text": "The still gon lose by 40 \ud83d\udc80\ud83d\udc80\ud83d\udc80 https://t.co/gjxrxBYraT",
@@ -752,8 +770,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.9191554212237,
-          35.12520149919229
+          -89.93137865761757,
+          35.130595349918025
         ]
       }
     },
@@ -770,8 +788,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.48593927453992,
-          32.0923008496557
+          -96.47577259862118,
+          32.09838885132816
         ]
       }
     },
@@ -788,8 +806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.86890070897971,
-          32.5762377444492
+          -89.8677913619249,
+          32.57784114380478
         ]
       }
     },
@@ -806,8 +824,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.50811585908792,
-          38.79964544876852
+          -90.5215626543006,
+          38.793168321245304
         ]
       }
     },
@@ -824,8 +842,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.42352663383558,
-          31.78746860712045
+          -106.41063180141312,
+          31.80011376730404
         ]
       }
     },
@@ -842,8 +860,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -106.75413253714213,
-          32.283097935833005
+          -106.74429830032157,
+          32.270867830363784
         ]
       }
     },
@@ -860,8 +878,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.2688763510599,
-          30.480710162595425
+          -84.26836142054304,
+          30.468168030847362
         ]
       }
     },
@@ -872,14 +890,14 @@
         "screen_name": "CGlaze81",
         "created_at": "2018-11-03T23:21:35+00:00Z",
         "text": "The real question is.  Will @Tyler_Lennon learn the Haka??? \ud83d\udc40\ud83d\udc40 https://t.co/GcrxVuAo6t",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1152740248151089152/FMR8orFG_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1219067035721834497/CGYs9Cj__normal.jpg",
         "url": "http://twitter.com/CGlaze81/status/1058861777541365760"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.07216302091228,
-          31.178684375629857
+          -100.08224193065008,
+          31.16671485300312
         ]
       }
     },
@@ -896,8 +914,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.68966347986358,
-          39.038990180310115
+          -95.6863386249988,
+          39.0452249652824
         ]
       }
     },
@@ -914,8 +932,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.83993297001726,
-          39.61789131668289
+          -75.83243714275748,
+          39.63208181174526
         ]
       }
     },
@@ -932,8 +950,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.0676155988541,
-          29.455030168794003
+          -95.06901478085798,
+          29.459686282813372
         ]
       }
     },
@@ -950,8 +968,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.60602629600623,
-          34.69949546927487
+          -86.60792602423564,
+          34.70379362782029
         ]
       }
     },
@@ -968,8 +986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.66481572114728,
-          40.359766279521445
+          -82.66846004891498,
+          40.36159282003071
         ]
       }
     },
@@ -986,26 +1004,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.6967136182844,
-          35.83627821163648
+          -90.7030215435992,
+          35.83014677219738
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "\ud83d\udc51",
+        "name": "\ud83d\udc51RIP GOAT \ud83d\udc51",
         "screen_name": "YaBoyVickk",
         "created_at": "2018-11-03T23:35:31+00:00Z",
         "text": "Respect @LT2703 https://t.co/Ue0tlBevdE",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1037885340089032704/Mdz6qhJW_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221526858849771520/CL5mTDRL_normal.jpg",
         "url": "http://twitter.com/YaBoyVickk/status/1058865286777069568"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.61497157950075,
-          32.90744425186851
+          -96.62443624793771,
+          32.89793799136112
         ]
       }
     },
@@ -1022,26 +1040,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.45044721653112,
-          39.762127823333316
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BSE $MOKEY\ud83d\ude24",
-        "screen_name": "YUNGDAGGERD1KK",
-        "created_at": "2018-11-03T23:42:25+00:00Z",
-        "text": "This is sick https://t.co/7p0ue1ZTyD",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1216941356758847488/Ceslueu__normal.jpg",
-        "url": "http://twitter.com/YUNGDAGGERD1KK/status/1058867023709523969"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.4414671677444,
-          29.84048319863257
+          -86.44630939048916,
+          39.773766579860485
         ]
       }
     },
@@ -1058,8 +1058,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.00850971506928,
-          29.974893850976443
+          -90.00467127817616,
+          29.986967699999695
         ]
       }
     },
@@ -1070,14 +1070,14 @@
         "screen_name": "AustinDonalds76",
         "created_at": "2018-11-03T23:54:21+00:00Z",
         "text": "@espn @landryyy14 One of the best moments I seen in college football this season",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1212502908731842562/gp4RBbKy_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1222332157919711232/qFHxG5Pe_normal.jpg",
         "url": "http://twitter.com/AustinDonalds76/status/1058870023136165893"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.07568846825104,
-          33.57234220565562
+          -85.06854841815999,
+          33.57571111779604
         ]
       }
     },
@@ -1094,26 +1094,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.09005296906534,
-          32.52284511260267
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Omar\u2019s Account",
-        "screen_name": "Jr3Garza",
-        "created_at": "2018-11-03T23:57:14+00:00Z",
-        "text": "All this for an L \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f https://t.co/2y0nXYjGhw",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1216886967553679361/vPw559y8_normal.jpg",
-        "url": "http://twitter.com/Jr3Garza/status/1058870752219410433"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.99674963631412,
-          26.29083946812382
+          -85.07934616463906,
+          32.524100992182646
         ]
       }
     },
@@ -1124,14 +1106,14 @@
         "screen_name": "bjardine_",
         "created_at": "2018-11-03T23:58:34+00:00Z",
         "text": "Love the Fehoko\u2019s! \ud83d\ude2d\ud83c\udfc8 https://t.co/XOsIs0wZCJ",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1182849612476043264/WhfkT5Ke_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220527867651596288/BoO28-8U_normal.jpg",
         "url": "http://twitter.com/bjardine_/status/1058871084274016256"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.63356274050776,
-          45.542391554663745
+          -122.63306906501666,
+          45.536746345736624
         ]
       }
     },
@@ -1148,8 +1130,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.94000660535157,
-          40.65485194179792
+          -73.940757109651,
+          40.65971000713939
         ]
       }
     },
@@ -1166,8 +1148,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.67514136778681,
-          40.46285544669486
+          -90.67900759385276,
+          40.451043557146534
         ]
       }
     },
@@ -1184,8 +1166,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.86869260812139,
-          40.49078808622218
+          -111.8778002613223,
+          40.500815503666246
         ]
       }
     },
@@ -1202,8 +1184,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.775788101898,
-          34.731210563704565
+          -82.7745693747852,
+          34.71311315678057
         ]
       }
     },
@@ -1220,8 +1202,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.46374517703303,
-          37.64629917301111
+          -77.47557440085421,
+          37.63971616435148
         ]
       }
     },
@@ -1238,8 +1220,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.96380627374796,
-          38.807609605529294
+          -89.9656229249573,
+          38.80841841015155
         ]
       }
     },
@@ -1256,8 +1238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.1185143737962,
-          33.19335674417573
+          -97.12092390057644,
+          33.20440115782298
         ]
       }
     },
@@ -1274,8 +1256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.17791523528,
-          32.67046531159715
+          -83.17394621428491,
+          32.674706211119315
         ]
       }
     },
@@ -1292,8 +1274,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.97912149589104,
-          35.82195743052035
+          -85.96972644362685,
+          35.836719594311376
         ]
       }
     },
@@ -1304,14 +1286,14 @@
         "screen_name": "Rossiter_Matt",
         "created_at": "2018-11-04T01:44:43+00:00Z",
         "text": "In the army they say motivation is what gets you through... perfect representation https://t.co/nFSMcRzn2k",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1173573021786869760/CqYy0F6t_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220858266999296000/LOeNj331_normal.jpg",
         "url": "http://twitter.com/Rossiter_Matt/status/1058897801848016897"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.48434821186092,
-          36.67465001298041
+          -87.47617946218733,
+          36.67429864358253
         ]
       }
     },
@@ -1328,8 +1310,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.35760008193918,
-          38.58724715812308
+          -90.3432940358015,
+          38.59400407846335
         ]
       }
     },
@@ -1346,8 +1328,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.9171143751961,
-          33.640422557254965
+          -80.93303935722116,
+          33.63879888258747
         ]
       }
     },
@@ -1358,14 +1340,14 @@
         "screen_name": "Fred_TheThird",
         "created_at": "2018-11-04T01:58:01+00:00Z",
         "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 https://t.co/wwlsjyD1M3",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1197532842164658177/2x4-PCxd_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221530189479534595/3li3s0CX_normal.jpg",
         "url": "http://twitter.com/Fred_TheThird/status/1058901146339819521"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.87285746754392,
-          29.98702566436574
+          -97.8614999100207,
+          29.992337754941445
         ]
       }
     },
@@ -1382,8 +1364,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.05615099217285,
-          32.357829457046
+          -90.05003763692068,
+          32.3475462411865
         ]
       }
     },
@@ -1400,8 +1382,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.74537348700498,
-          30.317374182938178
+          -97.7644164594704,
+          30.323069241067486
         ]
       }
     },
@@ -1418,8 +1400,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.98222172690218,
-          37.6558936838529
+          -120.98268878289166,
+          37.6731278198087
         ]
       }
     },
@@ -1436,8 +1418,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.55035437592863,
-          39.106115951583455
+          -94.55541711990611,
+          39.0903931462026
         ]
       }
     },
@@ -1454,8 +1436,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.51470762623156,
-          36.14727197067681
+          -85.51304076710277,
+          36.140881163433484
         ]
       }
     },
@@ -1466,14 +1448,14 @@
         "screen_name": "amandaeloe",
         "created_at": "2018-11-04T04:33:00+00:00Z",
         "text": "Okaaayyy I see that sign in the back KINE TINGZ yessaaaaah \ud83d\ude02\ud83d\ude4c\ud83c\udffd https://t.co/d8M1kSY3hC",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1193978084631777280/VziHKcjD_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220181924519403520/zy9O5C-L_normal.jpg",
         "url": "http://twitter.com/amandaeloe/status/1058940150531543040"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.46889862990811,
-          38.50337980609374
+          -122.46084914102042,
+          38.50200196912746
         ]
       }
     },
@@ -1490,8 +1472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -93.39772444539099,
-          41.93584240089931
+          -93.39736358295815,
+          41.928820271150094
         ]
       }
     },
@@ -1508,8 +1490,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.65119836192271,
-          28.124561087476618
+          -80.64955209729801,
+          28.11816937629996
         ]
       }
     },
@@ -1526,8 +1508,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.97090050620822,
-          40.790099728714985
+          -73.97201242812055,
+          40.787977945399305
         ]
       }
     },
@@ -1544,15 +1526,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.1192824945033,
-          36.12938524899474
+          -115.12364861339148,
+          36.14202985820812
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "\ud83e\uddb9\ud83c\udffd\u200d\u2642\ufe0f",
+        "name": "THE TAMM- THE MYTH- THE LEGEND",
         "screen_name": "WOAHTAMM",
         "created_at": "2018-11-04T06:37:37+00:00Z",
         "text": "THE LITTLE KID \ud83d\ude02\ud83d\ude0d\ud83d\ude02\ud83d\ude0d https://t.co/GKcKQpTjDR",
@@ -1562,8 +1544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.50877265178819,
-          38.97149912977022
+          -76.50978563683361,
+          38.974818173418164
         ]
       }
     },
@@ -1580,8 +1562,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.27593478071219,
-          35.81161599686878
+          -84.27882953315878,
+          35.82272275531824
         ]
       }
     },
@@ -1598,8 +1580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -100.07306047453002,
-          31.17851046790835
+          -100.07415749613894,
+          31.172033936674648
         ]
       }
     },
@@ -1616,15 +1598,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.97383636934407,
-          35.82130065420097
+          -85.97078841215146,
+          35.8315666067475
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "\ud83d\ude25x-Buffalo Bills(10-7)",
+        "name": "naitsirhC",
         "screen_name": "crutledge19",
         "created_at": "2018-11-04T11:16:56+00:00Z",
         "text": "Prolly should have put the rest of his family in the game https://t.co/rM9byngJmc",
@@ -1634,8 +1616,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.42440715014864,
-          36.610319533088926
+          -79.41294585284284,
+          36.60862630434998
         ]
       }
     },
@@ -1652,8 +1634,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.72178844821521,
-          40.0680255266574
+          -74.73427235973638,
+          40.07185962373782
         ]
       }
     },
@@ -1670,8 +1652,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.75267483994388,
-          32.821147699706955
+          -96.76973421962992,
+          32.82435518830295
         ]
       }
     },
@@ -1688,8 +1670,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.97374965538859,
-          43.05272373757795
+          -87.95808179442467,
+          43.062076602361486
         ]
       }
     },
@@ -1706,8 +1688,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.58176068361949,
-          37.9982506196386
+          -87.5687985381943,
+          37.993693289743916
         ]
       }
     },
@@ -1718,14 +1700,14 @@
         "screen_name": "PatternPapi",
         "created_at": "2018-11-04T14:34:00+00:00Z",
         "text": "Haka is amazing to see. #culture https://t.co/30SND6yXCZ",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1187154755946254336/Gkr3sS6K_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221648305236729861/zcZBeO0K_normal.jpg",
         "url": "http://twitter.com/PatternPapi/status/1059091396509003776"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.82617563862043,
-          40.67433050405187
+          -73.82621044389596,
+          40.66346770422736
         ]
       }
     },
@@ -1742,8 +1724,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.17120605729453,
-          32.66887626093616
+          -83.16415617509428,
+          32.67274923850135
         ]
       }
     },
@@ -1760,8 +1742,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.66124490941915,
-          40.35972618850196
+          -82.67557594770562,
+          40.367445214076845
         ]
       }
     },
@@ -1778,8 +1760,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.85526554772383,
-          35.16118982200916
+          -79.85455390484253,
+          35.17374228405043
         ]
       }
     },
@@ -1796,8 +1778,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.432543871409959,
-          50.839505191210776
+          4.446510815155274,
+          50.831106981363064
         ]
       }
     },
@@ -1814,8 +1796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.43866289135451,
-          38.29522614277227
+          -92.43854198590425,
+          38.31101905427525
         ]
       }
     },
@@ -1832,8 +1814,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.97645369303045,
-          31.800390037353033
+          -85.97952082620161,
+          31.800147642608497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "clinton williams",
+        "screen_name": "williams_ct",
+        "created_at": "2018-11-04T18:01:02+00:00Z",
+        "text": "@espn @landryyy14 Too bad it didn\u2019t work....  ok well....  Lmao!",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1467715961/theater_gateway2_normal.jpg",
+        "url": "http://twitter.com/williams_ct/status/1059143496400072705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.13929227082592,
+          34.75132228016871
         ]
       }
     },
@@ -1850,8 +1850,44 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.43120837802617,
-          35.079649245837125
+          -92.4323521382227,
+          35.08185868945826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lisa Lolohea\ud83c\uddf9\ud83c\uddf4",
+        "screen_name": "jlolohea0903",
+        "created_at": "2018-11-04T20:59:01+00:00Z",
+        "text": "@BeulahKoale @CantonKaumatule @bloodysamoan If you didn\u2019t know the fehokos are also half maori their mom my aunty Linda is the one that\u2019s maori blooded.",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/954580636915834882/9nPlzpYR_normal.jpg",
+        "url": "http://twitter.com/jlolohea0903/status/1059188289431715840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.9346165549744,
+          21.402657702620743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lisa Lolohea\ud83c\uddf9\ud83c\uddf4",
+        "screen_name": "jlolohea0903",
+        "created_at": "2018-11-04T21:37:16+00:00Z",
+        "text": "@bloodysamoan @BeulahKoale @CantonKaumatule All good jst thought I\u2019d let you know. Thanks \ud83d\udc4c\ud83c\udffb",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/954580636915834882/9nPlzpYR_normal.jpg",
+        "url": "http://twitter.com/jlolohea0903/status/1059197916022157312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.92795264449,
+          21.40405917761267
         ]
       }
     },
@@ -1868,8 +1904,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -115.13447174142898,
-          36.05103696700558
+          -115.13802011790894,
+          36.062974646912586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Calum",
+        "screen_name": "CMacL24",
+        "created_at": "2018-11-04T22:04:01+00:00Z",
+        "text": "@espn @landryyy14 LSU ...Haha",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221633828856508416/Aa6-BifD_normal.jpg",
+        "url": "http://twitter.com/CMacL24/status/1059204644877099010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.41568348300846,
+          38.00110144402262
         ]
       }
     },
@@ -1886,8 +1940,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.84939299186325,
-          -36.592293647028285
+          174.85993305677044,
+          -36.596971781050875
         ]
       }
     },
@@ -1904,8 +1958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.86232734054144,
-          -36.587808993635356
+          174.8628402938895,
+          -36.591364533672625
         ]
       }
     },
@@ -1922,8 +1976,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.74003211758512,
-          13.47307579802857
+          144.73983867728802,
+          13.469885816614187
         ]
       }
     },
@@ -1940,8 +1994,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.50750481028973,
-          41.444821752951505
+          -96.51106681245962,
+          41.43757394062776
         ]
       }
     },
@@ -1958,8 +2012,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.8629738479168,
-          -36.601215360524094
+          174.86105462139437,
+          -36.587427296243476
         ]
       }
     },
@@ -1970,14 +2024,32 @@
         "screen_name": "YoungKeiaira",
         "created_at": "2018-11-05T06:30:51+00:00Z",
         "text": "OK WEST &amp; BARTLETT \ud83d\ude2d\ud83d\ude02 https://t.co/1nPevi8GCz",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1215124725464272896/Y2Wm0kmP_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1219877676510535680/BvK8Geyw_normal.jpg",
         "url": "http://twitter.com/YoungKeiaira/status/1059332197440782336"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.44028891934461,
-          29.83851729695074
+          -95.44911451136872,
+          29.83052879406491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "JMM",
+        "screen_name": "snacksNsneakers",
+        "created_at": "2018-11-05T08:04:43+00:00Z",
+        "text": "@Notis7777 @espn @landryyy14 @AlabamaFTBL @TevitaMusika56 @Brandonkah0 @Tuaamann @cameronlatu Mainly Tongans? they couldn\u2019t learn a sipi tau instead of taking Ka Mate? C\u2019mon tokos, let\u2019s see Tonga repped all the way from Louisiana with a sipi tau \ud83e\udd19\ud83c\udffe #MMT",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/685781930030149633/1AbWXi3l_normal.jpg",
+        "url": "http://twitter.com/snacksNsneakers/status/1059355816967364608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.86468162254923,
+          -36.59666189085388
         ]
       }
     },
@@ -1994,8 +2066,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.86860784873086,
-          37.32413776189091
+          -121.88199622064623,
+          37.321935744549734
         ]
       }
     },
@@ -2006,14 +2078,14 @@
         "screen_name": "ShakeZuIa",
         "created_at": "2018-11-05T12:56:12+00:00Z",
         "text": "oh. brother. https://t.co/ZTusgJ35cC",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1217569420618412034/39R47G8O_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221540936175452163/COOJKkF0_normal.jpg",
         "url": "http://twitter.com/ShakeZuIa/status/1059429172886544386"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.03116667598167,
-          40.73729968605973
+          -74.0397875312683,
+          40.748172883183045
         ]
       }
     },
@@ -2030,8 +2102,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.71242993445956,
-          33.743829809044726
+          -84.7104601385925,
+          33.731793137427054
         ]
       }
     },
@@ -2048,8 +2120,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.54117551155058,
-          29.415389128378745
+          -98.53205282851746,
+          29.419963840482215
         ]
       }
     },
@@ -2066,33 +2138,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.44205928654777,
-          29.836309044916618
+          -95.4429011244482,
+          29.838270615456594
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "MUSICALDOS|SPIFFYDOS\ud83e\udd34\ud83c\udffe1/29/98\u2652\ufe0f",
+        "name": "KINGSPIFFY\ud83e\udd34\ud83c\udffeSPIFFYDOS1/29/98\u2652\ufe0f",
         "screen_name": "GloboyEbo",
         "created_at": "2018-11-05T14:40:23+00:00Z",
         "text": "White folks are thieves. https://t.co/5zu9hQP0Ox",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1214976296700252160/SoU_oI7m_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1220395671552954368/bcWdwzcS_normal.jpg",
         "url": "http://twitter.com/GloboyEbo/status/1059455392613367809"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.01081517536794,
-          38.90228682546921
+          -77.01052484403073,
+          38.90782085608076
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Maganda",
+        "name": "8",
         "screen_name": "CelesteMaiya",
         "created_at": "2018-11-05T14:47:02+00:00Z",
         "text": "Let these uncultured swines know what the fuck going on https://t.co/5P3ISljP6L",
@@ -2102,8 +2174,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.43929935502348,
-          29.83245687248022
+          -95.44198962555188,
+          29.84362731804763
         ]
       }
     },
@@ -2120,8 +2192,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.9919641409107,
-          40.00352072925853
+          -82.98288576960826,
+          39.987444353300994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cruz Oxenreider",
+        "screen_name": "TheRealCruzOx",
+        "created_at": "2018-11-05T15:06:00+00:00Z",
+        "text": "They lost by 29 https://t.co/I5HfD4fSN6",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217533424078069760/_y2ktdDC_normal.jpg",
+        "url": "http://twitter.com/TheRealCruzOx/status/1059461839254368256"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.81341177478755,
+          27.689662036322247
         ]
       }
     },
@@ -2132,14 +2222,14 @@
         "screen_name": "yamanjapan_",
         "created_at": "2018-11-05T15:58:27+00:00Z",
         "text": "This live as hell https://t.co/nFLZfE0JCa",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1190075135824465925/QF8kfEER_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221678207612727297/ynixSnM8_normal.jpg",
         "url": "http://twitter.com/yamanjapan_/status/1059475036887760904"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.35200193107394,
-          41.10360942441451
+          -81.34195339439962,
+          41.091654363905135
         ]
       }
     },
@@ -2156,8 +2246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.39206661370581,
-          30.946272168297128
+          -91.40490007634392,
+          30.944647960745524
         ]
       }
     },
@@ -2174,8 +2264,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.87697761362092,
-          37.32944102208109
+          -121.8728835252198,
+          37.33169886777949
         ]
       }
     },
@@ -2192,8 +2282,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.4055100388734,
-          34.01479273215565
+          -118.41114502167575,
+          34.01462137150675
         ]
       }
     },
@@ -2210,8 +2300,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.48552583038209,
-          42.75340677599551
+          -84.47441705647479,
+          42.73744664564629
         ]
       }
     },
@@ -2228,8 +2318,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.00296073147027,
-          29.984861253065827
+          -90.00763875530293,
+          29.98551907837809
         ]
       }
     },
@@ -2246,8 +2336,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.4410062178304,
-          27.98668057120058
+          -82.45057355759616,
+          28.003857119763943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathryn Gibson",
+        "screen_name": "cathrynwgibson",
+        "created_at": "2018-11-05T16:52:13+00:00Z",
+        "text": "@Cerebral_ICON @SaintsNation7 @espn @landryyy14 @Saints That\u2019s funny.",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/947129874187280384/rqhx3rbR_normal.jpg",
+        "url": "http://twitter.com/cathrynwgibson/status/1059488566315810816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77239527347254,
+          37.83143274555402
         ]
       }
     },
@@ -2264,8 +2372,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.68061440541607,
-          38.926291220970086
+          -94.67383647033262,
+          38.9364754639724
         ]
       }
     },
@@ -2282,8 +2390,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.42841931687552,
-          33.77537235587546
+          -84.44077868926449,
+          33.759851915406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Justin Calko",
+        "screen_name": "JCalko3",
+        "created_at": "2018-11-05T18:39:16+00:00Z",
+        "text": "@rhetthulgan @thEMANacho @espn @landryyy14 Never said Michigan would win lol I just wanted to see Tua play a defense for the first time this season. No doubting his talent but he had some wayward throws on some tough coverage.",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154030242266275840/ipRMQPC0_normal.jpg",
+        "url": "http://twitter.com/JCalko3/status/1059515506934407169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.35071332983298,
+          41.31470082112564
         ]
       }
     },
@@ -2300,15 +2426,33 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          174.8568207597911,
-          -36.60321190564096
+          174.85129112321144,
+          -36.58926888396615
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "808 fAcTs",
+        "name": "Justin Calko",
+        "screen_name": "JCalko3",
+        "created_at": "2018-11-05T19:54:11+00:00Z",
+        "text": "@rhetthulgan @thEMANacho @espn @landryyy14 Ya no arguement here",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154030242266275840/ipRMQPC0_normal.jpg",
+        "url": "http://twitter.com/JCalko3/status/1059534360129474561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3447148273152,
+          41.304090709475446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\ud83e\udd69",
         "screen_name": "Carsensmaddah",
         "created_at": "2018-11-05T20:17:07+00:00Z",
         "text": "First of all... it's Aotearoa's haka. Second, the Fehoko's are as M\u0101ori as I am Tongan. Lol https://t.co/U3n5bfgxFs",
@@ -2318,8 +2462,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -158.15712528673774,
-          21.378899414536857
+          -158.15227925735434,
+          21.380649780951014
         ]
       }
     },
@@ -2336,8 +2480,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.7659341149255,
-          32.82708637169176
+          -96.75815279928528,
+          32.82739081260297
         ]
       }
     },
@@ -2354,8 +2498,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -92.06968594984754,
-          32.51827287431152
+          -92.0850763045455,
+          32.51241333314078
         ]
       }
     },
@@ -2366,14 +2510,14 @@
         "screen_name": "guwop93",
         "created_at": "2018-11-05T22:29:19+00:00Z",
         "text": "them mfs stay live doin that \ud83e\udd23\ud83e\udd23 https://t.co/SSJlK11r34",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1215115811859451904/cW61ho2A_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221487666383990791/X2UQoDU7_normal.jpg",
         "url": "http://twitter.com/guwop93/status/1059573403399655425"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.96312585426412,
-          35.97826717528814
+          -83.97261697683865,
+          35.98985905246695
         ]
       }
     },
@@ -2390,8 +2534,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.63128121169726,
-          29.605427179651333
+          -95.64016568527656,
+          29.603413693405297
         ]
       }
     },
@@ -2408,8 +2552,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.4202165040227,
-          37.23649247841805
+          -80.43128334989655,
+          37.2325361168649
         ]
       }
     },
@@ -2426,8 +2570,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.2740706603595,
-          27.996659981730723
+          -82.2824592712738,
+          28.006990175958343
         ]
       }
     },
@@ -2444,8 +2588,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.91745870091671,
-          36.11632085761481
+          -95.9061741591019,
+          36.113736352062524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "boob obsession",
+        "screen_name": "chefgabemac",
+        "created_at": "2018-11-06T00:24:47+00:00Z",
+        "text": "@TrkTurner @Bengal_Buga @BeulahKoale @chasen_hines Sounds about white to me",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1215907053920817152/IMZ7rpB6_normal.jpg",
+        "url": "http://twitter.com/chefgabemac/status/1059602458685652993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.70332364306655,
+          41.49710904143757
         ]
       }
     },
@@ -2462,8 +2624,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -59.52696232209593,
-          13.195437692348834
+          -59.536011376988085,
+          13.185577863277528
         ]
       }
     },
@@ -2480,8 +2642,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.01881679518063,
-          38.907657913233834
+          -77.02155278747365,
+          38.90389797128549
         ]
       }
     },
@@ -2498,8 +2660,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.90383598659497,
-          33.57041362548795
+          -101.89579737432695,
+          33.57274286707255
         ]
       }
     },
@@ -2516,8 +2678,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.5477790403977,
-          29.41535518927791
+          -98.53529780861668,
+          29.413077902932365
         ]
       }
     },
@@ -2528,14 +2690,14 @@
         "screen_name": "flyhalf_victor",
         "created_at": "2018-11-06T02:39:47+00:00Z",
         "text": "LSU isnt Maori at all and I doubt they come from New Zealand https://t.co/i5CPlnC01Q",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1208056217848832001/OFqW6lf0_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221700769264463872/3FByfjmL_normal.jpg",
         "url": "http://twitter.com/flyhalf_victor/status/1059636433298825217"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.10243869279195,
-          32.80421473717587
+          -117.10939072522775,
+          32.818697327413
         ]
       }
     },
@@ -2552,8 +2714,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.88246487463083,
-          35.403688290122126
+          -80.88804087778983,
+          35.40643354002922
         ]
       }
     },
@@ -2570,8 +2732,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -91.09085176975047,
-          30.46255620975785
+          -91.09642837657339,
+          30.457795708758454
         ]
       }
     },
@@ -2588,8 +2750,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.44705832946886,
-          29.831699387888875
+          -95.4535888609366,
+          29.84559064911216
         ]
       }
     },
@@ -2606,8 +2768,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.97326257066022,
-          40.435247158147035
+          -79.98871243004388,
+          40.43730177587606
         ]
       }
     },
@@ -2624,8 +2786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -101.70168754156887,
-          34.193358402061456
+          -101.69467633200894,
+          34.19870077960959
         ]
       }
     },
@@ -2642,8 +2804,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.84715758434486,
-          40.03110650254108
+          -82.856700274106,
+          40.031450589376234
         ]
       }
     },
@@ -2660,8 +2822,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.19688603705977,
-          47.3024384786853
+          -122.19852147742071,
+          47.30273532431255
         ]
       }
     },
@@ -2678,8 +2840,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.43673397558142,
-          29.841584560109435
+          -95.43671612848887,
+          29.829698417406103
         ]
       }
     },
@@ -2696,8 +2858,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -124.08591364888193,
-          40.87385776039171
+          -124.07428145947668,
+          40.8688086225209
         ]
       }
     },
@@ -2714,8 +2876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.30570230881438,
-          25.971174414876096
+          -80.30008085317517,
+          25.974679869108474
         ]
       }
     },
@@ -2732,8 +2894,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.99425847194692,
-          -27.375503342098817
+          152.9894121892279,
+          -27.38846230361301
         ]
       }
     },
@@ -2750,8 +2912,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.34773599567696,
-          43.24380063361832
+          -89.34748945588258,
+          43.23166650488657
         ]
       }
     },
@@ -2762,14 +2924,14 @@
         "screen_name": "cardoGU",
         "created_at": "2018-11-06T06:04:43+00:00Z",
         "text": "i like this shit lmao https://t.co/jzEwSyeyju",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1211981292344004608/8vZ7ZEFZ_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221964777964154880/g0r9IE-n_normal.jpg",
         "url": "http://twitter.com/cardoGU/status/1059688005919682561"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          144.80342169053216,
-          13.49107355853862
+          144.7965366438307,
+          13.492633278660275
         ]
       }
     },
@@ -2786,8 +2948,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.54194532412056,
-          39.50936017526709
+          -111.54356641921059,
+          39.503227532071676
         ]
       }
     },
@@ -2804,8 +2966,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.45106150814802,
-          29.833572680988624
+          -95.45122095635922,
+          29.84596600475685
         ]
       }
     },
@@ -2816,14 +2978,14 @@
         "screen_name": "blonde_larry",
         "created_at": "2018-11-06T10:44:25+00:00Z",
         "text": "Someone said these niggas only 4 years old \ud83d\ude2d https://t.co/F0OiJQPW1s",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1210614866995744768/FeRXKhZs_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1218577507638751233/jbNGk2GU_normal.jpg",
         "url": "http://twitter.com/blonde_larry/status/1059758395786375175"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.41774972596151,
-          34.01639317851752
+          -118.42007681068175,
+          34.026038745130336
         ]
       }
     },
@@ -2840,8 +3002,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.94448699247324,
-          39.0005165016081
+          -76.9270749916097,
+          39.00326022761194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Justin Calko",
+        "screen_name": "JCalko3",
+        "created_at": "2018-11-06T12:55:29+00:00Z",
+        "text": "@DylanBlackmon4 @rhetthulgan @thEMANacho @espn @landryyy14 LSU best D really? I mean that's a stretch. Florida beat LSU. Top 15 D yes but top D? Clemson, bama, Michigan have better imo.",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154030242266275840/ipRMQPC0_normal.jpg",
+        "url": "http://twitter.com/JCalko3/status/1059791380309049345"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.66859837200674,
+          40.362114178497535
         ]
       }
     },
@@ -2858,8 +3038,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.76293371031615,
-          30.324630223810853
+          -97.75823810075113,
+          30.32722202921883
         ]
       }
     },
@@ -2876,8 +3056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.85688329968947,
-          35.169586905680376
+          -79.870299668261,
+          35.162769515649124
         ]
       }
     },
@@ -2888,14 +3068,14 @@
         "screen_name": "lifeofthegreat",
         "created_at": "2018-11-06T15:03:02+00:00Z",
         "text": "Tell them! https://t.co/pxrTzsuMzC",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1141802773651980288/wkw-9Aa3_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1221607952664031232/BATIpjDp_normal.jpg",
         "url": "http://twitter.com/lifeofthegreat/status/1059823480324014080"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -112.12731735318641,
-          33.54529560152511
+          -112.13059384566085,
+          33.54490756211839
         ]
       }
     },
@@ -2912,8 +3092,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.4459288139017,
-          29.83945276168118
+          -95.44784444281726,
+          29.84104911420282
         ]
       }
     },
@@ -2930,8 +3110,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.87366260532998,
-          37.32666906473566
+          -121.87218145253011,
+          37.335927595722616
         ]
       }
     },
@@ -2948,8 +3128,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.87877823701086,
-          32.563684427983
+          -89.87555697589738,
+          32.57913321564742
         ]
       }
     },
@@ -2966,62 +3146,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.89383283159958,
-          32.557723652132616
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "\ud83c\udf00Rika too live Crew\ud83c\udf00",
-        "screen_name": "Revleto_89",
-        "created_at": "2018-11-12T02:14:26+00:00Z",
-        "text": "@BeulahKoale @ReignOfApril Better correct then for they take y\u2019all shit! \ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23 -black ppl",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1102225772968923136/iQkTmFOb_normal.jpg",
-        "url": "http://twitter.com/Revleto_89/status/1061804379852980230"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.36520006352863,
-          28.51055105934225
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Blake \ud83d\udcb5",
-        "screen_name": "justblakke",
-        "created_at": "2018-11-12T02:32:03+00:00Z",
-        "text": "I don\u2019t think that\u2019s what they call it https://t.co/H9vvPPSEud",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1188841254983028736/gxth6skx_normal.jpg",
-        "url": "http://twitter.com/justblakke/status/1061808816403238913"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.43276214859968,
-          33.76306932324504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "the depressed baker",
-        "screen_name": "TeaFreak97",
-        "created_at": "2018-11-12T04:27:41+00:00Z",
-        "text": "@TylerFrix this is why I said we should NEVER do this. Please educate yourself. https://t.co/kWapWYV9Uk",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1211037705494237186/GF2YAimv_normal.jpg",
-        "url": "http://twitter.com/TeaFreak97/status/1061837916610138113"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.93027001488265,
-          33.628992665348946
+          -83.88385980707042,
+          32.55482015941632
         ]
       }
     },
@@ -3038,8 +3164,62 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -120.88568998552283,
-          47.27791927133462
+          -120.89149771575997,
+          47.27669178148864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "\ud83c\udf00Rika too live Crew\ud83c\udf00",
+        "screen_name": "Revleto_89",
+        "created_at": "2018-11-12T02:14:26+00:00Z",
+        "text": "@BeulahKoale @ReignOfApril Better correct then for they take y\u2019all shit! \ud83d\ude02\ud83e\udd23\ud83d\ude02\ud83e\udd23 -black ppl",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102225772968923136/iQkTmFOb_normal.jpg",
+        "url": "http://twitter.com/Revleto_89/status/1061804379852980230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.36551560938906,
+          28.493619511937602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "the depressed baker",
+        "screen_name": "TeaFreak97",
+        "created_at": "2018-11-12T04:27:41+00:00Z",
+        "text": "@TylerFrix this is why I said we should NEVER do this. Please educate yourself. https://t.co/kWapWYV9Uk",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217874035771613187/_MO9wo2d_normal.jpg",
+        "url": "http://twitter.com/TeaFreak97/status/1061837916610138113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.91982918853662,
+          33.64035736059795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blake \ud83d\udcb5",
+        "screen_name": "justblakke",
+        "created_at": "2018-11-12T02:32:03+00:00Z",
+        "text": "I don\u2019t think that\u2019s what they call it https://t.co/H9vvPPSEud",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1188841254983028736/gxth6skx_normal.jpg",
+        "url": "http://twitter.com/justblakke/status/1061808816403238913"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.42894310394819,
+          33.76840816097877
         ]
       }
     }
