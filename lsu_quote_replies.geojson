@@ -118,44 +118,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "christian janik",
-        "screen_name": "____WaffleHouse",
-        "created_at": "2018-11-03T22:49:57+00:00Z",
-        "text": "LSU by 30 https://t.co/o6KZvyKd2b",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1207832945777631232/a89XnXC9_normal.jpg",
-        "url": "http://twitter.com/____WaffleHouse/status/1058853818258075649"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -85.605166,
-              30.355644
-            ],
-            [
-              -80.742567,
-              30.355644
-            ],
-            [
-              -80.742567,
-              35.000771
-            ],
-            [
-              -85.605166,
-              35.000771
-            ],
-            [
-              -85.605166,
-              30.355644
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Andy",
         "screen_name": "A1Roath",
         "created_at": "2018-11-03T22:50:02+00:00Z",
@@ -2466,6 +2428,44 @@
             [
               -111.921988,
               40.45236
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Justin Calko",
+        "screen_name": "JCalko3",
+        "created_at": "2018-11-04T00:22:52+00:00Z",
+        "text": "@DBusang @thEMANacho @espn @landryyy14 Lol best of luck tonight, should be a good game",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1154030242266275840/ipRMQPC0_normal.jpg",
+        "url": "http://twitter.com/JCalko3/status/1058877200513015808"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.792505,
+              41.01244
+            ],
+            [
+              -80.71107,
+              41.01244
+            ],
+            [
+              -80.71107,
+              41.061755
+            ],
+            [
+              -80.792505,
+              41.061755
+            ],
+            [
+              -80.792505,
+              41.01244
             ]
           ]
         ]
@@ -5670,7 +5670,7 @@
         "screen_name": "flyhalf_victor",
         "created_at": "2018-11-06T02:39:47+00:00Z",
         "text": "LSU isnt Maori at all and I doubt they come from New Zealand https://t.co/i5CPlnC01Q",
-        "profile_image_url": "http://pbs.twimg.com/profile_images/1221700769264463872/3FByfjmL_normal.jpg",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1222547903438213122/do9C0qwi_normal.jpg",
         "url": "http://twitter.com/flyhalf_victor/status/1059636433298825217"
       },
       "geometry": {
